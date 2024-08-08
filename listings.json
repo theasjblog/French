@@ -1,0 +1,49 @@
+[
+  {
+    "listing": "/topics/aggettivi_root.html",
+    "items": [
+      "/topics/aggettivi/adj_demonstratif.html",
+      "/topics/aggettivi/adj_indefinito.html",
+      "/topics/aggettivi/adj_interrogatif.html",
+      "/topics/aggettivi/adj_qual.html",
+      "/topics/aggettivi/adj_poss.html",
+      "/topics/aggettivi/comparativi.html"
+    ]
+  },
+  {
+    "listing": "/topics/verbi_root.html",
+    "items": [
+      "/topics/verbi/verbi_condizionale_root.html",
+      "/topics/verbi/verbi_future_simple_root.html",
+      "/topics/verbi/verbi_future_proche_root.html",
+      "/topics/verbi/gruppi_root.html",
+      "/topics/verbi/verbi_imperativo_root.html",
+      "/topics/verbi/verbi_imperfetto_root.html",
+      "/topics/verbi/verbi_passe_recent_root.html",
+      "/topics/verbi/verbi_passe_compose_root.html",
+      "/topics/verbi/verbi_presente_root.html",
+      "/topics/verbi/verbi_conoscenza_root.html",
+      "/topics/verbi/verbi_tavole_root.html",
+      "/topics/verbi/when_root.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/topics/aggettivi_root.html",
+      "/topics/art_def_root.html",
+      "/topics/dictionary_root.html",
+      "/topics/liason_root.html",
+      "/topics/ordinali_root.html",
+      "/topics/obbligo_divieto_root.html",
+      "/topics/on_root.html",
+      "/topics/precisare_root.html",
+      "/topics/position_root.html",
+      "/topics/pronomi_root.html",
+      "/topics/qunatite_root.html",
+      "/topics/questions_root.html",
+      "/topics/time_root.html",
+      "/topics/verbi_root.html"
+    ]
+  }
+]

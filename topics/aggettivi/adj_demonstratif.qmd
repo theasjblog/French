@@ -1,9 +1,0 @@
----
-title: "Adjectif démonstratifs"
----
-
--   French does not have questo/codesto/quello. Only "ce". \| \| masculin \| féminin \| \| --- \| --- \| --- \| \| singulier \| ce \| cette \| \| pluriel \| ces \| ces \|
-
--   Ce + vowel → **cet**
-
--   To remark proximity use **ci**. Ce stylo ci

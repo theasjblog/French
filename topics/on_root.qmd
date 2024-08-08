@@ -1,9 +1,0 @@
----
-title: "On"
----
-
-# On
-
--   It means "us". Conjugate as if it was "he". On va a Paris.
--   It also means "in general". On parle français en France
-
