@@ -1,1 +1,0 @@
-Source code for the French study website
