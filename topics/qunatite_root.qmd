@@ -1,0 +1,22 @@
+---
+title: "Quantité"
+---
+
+# Quantité
+
+-   Indéterminée:
+    -   Il y a **de la** salade
+    -   Vous avez **du** fromage
+    -   Je voudrais **de l'**eau
+    -   Je vais prendre **des** pâtes
+-   Déterminée (we lose the article)
+    -   Je veux beaucoup **de** sel
+    -   Je veux un peu **d'**huile
+    -   Je veux une tasse **de** café
+    -   Con beaucoup, assez, trop, peu, etc, non si usa mai il des: Ils ont beaucoup de problèmes
+-   **NOTE**:
+    -   Vous aimez le poisson? (In general)
+    -   Où est la moutarde? (The specific mostard)
+    -   Je ne veux pas de poisson. (In frasi al negativo perdiamo l'articolo)
+-   Expression of quantities followed by de + nom -Beuacoup de and assed de: Il "de" never becomes plural: Ils ont beaucoup de~~**s**~~ problemes
+

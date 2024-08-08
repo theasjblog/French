@@ -1,0 +1,22 @@
+---
+title: "Dictionary"
+---
+
+# Dictionary
+
+-   Terminus: last station
+-   Terminal: aereoporto
+-   soins des enfants: child care
+-   Desservir: Il treno si ferma a, non salta questa stazione
+-   en suite: then
+-   depuis: since, from
+-   rue: strada di città
+-   route: strada fuori città
+-   assez de: abbastanza
+-   boîte de chocolates: chocolate bar
+-   morceau: morso
+-   pincée: pizzico
+-   chercher: cercare
+-   aller <pronome> chercher: pick up
+-   Faire les courses en ligne: do groceries on line
+-   numérique: digital

@@ -1,0 +1,8 @@
+---
+title: "Adjectif interrogatif"
+---
+
+|           | masculin | féminin |
+|-----------|----------|---------|
+| singulier | quel     | quelle  |
+| pluriel   | quels    | quelles |

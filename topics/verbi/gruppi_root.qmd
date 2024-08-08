@@ -1,0 +1,9 @@
+---
+title: "Gruppi"
+---
+
+| Gruppo | Suffisso       | Note                                                                                 |
+|------------------------|------------------------|------------------------|
+| 1      | -er            | Mostly regular                                                                       |
+| 2      | -ir            | Mostly regular. Some takes an extra -s in some cases (nous finissons)                |
+| 3      | -ir; -oir; -re | Spesso irregolari: partir, venir offrir, Savoir, Voir, pouvoir, faire, vendre, boire |

@@ -1,0 +1,58 @@
+---
+title: "Time"
+---
+
+# Read the time
+    
+| heure officielle | heure courante |
+| --- | --- |
+| Il est quinze heures | Il est trois heures |
+| Il est quinze heures quinze | Il est trois heures et quart |
+| Il est quinze heures trente | Il est trois heures et demie |
+| Il est quinze heures quarante | Il est quatre moins vingt |
+| Il est quinze heures quarante cinq | Il est quatre heures moins le quart |
+| Il est douze/zéro heure(s) | Il est midi/minuit |
+
+- De 9h à 10h
+- vers 8h: verso le 8
+- environ 8h: circa 8h
+
+# Stagioni
+
+- en 2023
+- en été, en automne, eh hiver
+- au printemps
+- en mars
+- au mois de mars
+- Comme nous combien? Comme on combien? Quanti ne abbiamo oggi?
+- Comme il fait combien? Che tempo fa?
+
+# Days
+
+- Article “le” before day (i.e., **le mardi**), means every Tuesday
+
+# Indicateurs de temps
+    
+ | What | When | Example |
+ | --- | --- | --- |
+ | pendant | action length. Action is done. Used with verb at the past. If there is a numeric indicator, it can be omitted | J’ai travaillé à Paris (pendant) un an. Pendant les vacances, je me suis reposé |
+| pour | action length when the length is know. You know when it starts and when it finishes | Je suis parti pour un an |
+| en | the time it takes to do something | J’ai preparé le repas en 30 minutes |
+| depuis | an action that started and is continuing in the present and future. Uses verb at the present | Je travaille depuis 3 mois |
+| à partir de | when the action will start | À partire de demain, je ne fume plus |
+| jusqu’à | until when | Je travaille jusqu’à la semaine prochaine |
+| il y a | ago | Il est parti il y a deux jours |
+| dans | a moment in the future | Je pars dans deux jours |
+
+# Frequenza
+    
+ | ne […] jamais |
+ | --- |
+ | très rarement |
+ | rarement |
+ | quelquefois / parfois |
+ | souvent |
+ | très souvent |
+ | le plus souvent |
+ | toujours |
+ 

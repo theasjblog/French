@@ -1,0 +1,10 @@
+---
+title: "Adjectives"
+listing:
+  contents:
+    - "aggettivi/*.qmd"
+  type: grid
+  sort:
+    - "title asc"
+  fields: [title]
+---

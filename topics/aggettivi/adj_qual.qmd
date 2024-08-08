@@ -1,0 +1,35 @@
+---
+title: "Aggettivi qualificativi"
+---
+
+-   Maschile/femminile
+
+    -   In generale, aggiungi **e** al maschile per fare il femminile
+
+    -   Eccezioni
+
+        | masculine | feminine |
+        |-----------|----------|
+        | bon       | bonne    |
+        | neuf      | neuve    |
+        | léger     | légère   |
+        | beau      | belle    |
+        | blanc     | blanche  |
+        | vieux     | vieille  |
+
+-   Singulare/Plurale
+
+    -   In generale, aggiungi **s**
+
+    -   Eccezioni
+
+        | singulier | pluriel   |
+        |-----------|-----------|
+        | nouveau   | nouveaux  |
+        | national  | nationaux |
+
+-   Placement
+
+    -   Usually **after** the name
+    -   **Bon, petit, beau, long** go **before**
+    -   Placement can change meaning: un homme grand (di grandi dimensioni, alto, corpulento) VS un grand homme (un unomo di statura elevata, importante)

@@ -1,0 +1,9 @@
+---
+title: "Numeri ordinali"
+---
+
+# Numeri ordinali
+
+-   Premier/première
+-   Tutti gli altri basta aggiungere -ième
+-   Eccetto quelli che finiscono in neuf \> neu**v**ième

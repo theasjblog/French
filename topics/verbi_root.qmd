@@ -1,0 +1,10 @@
+---
+title: "Verbs"
+listing:
+  contents:
+    - "verbi/*_root.qmd"
+  type: grid
+  sort:
+    - "title asc"
+  fields: [title]
+---

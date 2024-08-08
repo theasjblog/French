@@ -1,0 +1,27 @@
+---
+title: "Comparativo e superaltivo"
+---
+
+# Comparatifs
+
+-   Con aggettivo o avverbio
+    -   plus <adjectif> que
+    -   moins <adjectif> que
+    -   aussi <adjective> que (non countable)
+    -   autant <adjective> que (countable)
+    -   ~~**Plus bon**~~ → **meilleur**
+-   Con nome
+    -   plus de ... que
+    -   moins de ... que
+    -   autant de ... que (non si dice ~~aussi beaucoup de~~)
+-   Con verbo
+    -   plus que (les enfant dorment plus que les adultes)
+    -   moins que
+    -   autant que (non si dice ~~aussi beaucoup que~~)
+
+# Superlatifs
+
+le/la/les <noun> le/la/les plus <adjective>. Le museé le plus connu
+
+-   bon \> meilleur
+-   bien \> mieux

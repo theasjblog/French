@@ -1,0 +1,5 @@
+---
+title: "Tavole delle coniugazioni"
+---
+
+![1](./verbi_table_1.png) ![1](./verbi_table_2.png) ![1](./verbi_table_3.png)

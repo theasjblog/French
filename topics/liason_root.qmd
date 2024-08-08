@@ -1,0 +1,7 @@
+---
+title: "Liason"
+---
+
+# Liason
+
+-   si fa dentro un gruppo grammaticale (soggetto, verbo, complemento), non tra gruppi. Unica eccezione è tra pronomi soggetto (io, tu, lui/lei/on, noi, voi, loro) e il verbo.

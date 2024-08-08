@@ -1,0 +1,20 @@
+---
+title: "Imperfetto"
+---
+
+-   Take the root of the 2nd plural
+-   add:
+    -   -ais
+    -   -ais
+    -   -ait
+    -   -ions
+    -   -iez
+    -   -aient
+
+| j'étais     |
+|-------------|
+| tu étais    |
+| il était    |
+| nous étions |
+| vous étiez  |
+| ils étaient |

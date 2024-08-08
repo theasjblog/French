@@ -1,0 +1,14 @@
+---
+title: "Per precisare"
+---
+
+# Per precisare
+
+If we need to say "of the", then the article le/la might change:
+
+-   de + person name: no article. Le stylo de Marc
+-   **de + le = du**. Le stylo du directeur
+-   **de + la = de la**. Le stylo de la femme
+-   **de + la (with vowel) = de l'**. Le stylo de l'actrice
+-   **de + les = des**. Les stylos des femmes
+

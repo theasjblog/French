@@ -1,0 +1,30 @@
+---
+title: "Future Simple"
+---
+
+| Je |    travailler**ai** |
+| --- | --- |
+| Tu | travailler**as** |
+| Il | travailler**a** |
+| Nous | travailler**ons** |
+| Vous | travailler**ez** |
+| Ils | travailler**ont** |
+
+14 irregular verbs:
+
+| verb | root when conjugated |
+| --- | --- |
+| Être | ser- |
+| Avoir | aur- |
+| Voir | verr- |
+| Pouvoir | pourr- |
+| Faire | fer- |
+| Aller | ir- |
+| Envoyer | enverr- |
+| Savoir | saur- |
+| Devoir | devr- |
+| Venir | viendr- |
+| Revevoir | recevr- |
+| Currir | courr- |
+| Pluvoir | Il pleut (impersonal verb) |
+| Falloir | Il faut (impersonal verb) |

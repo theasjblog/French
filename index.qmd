@@ -1,0 +1,10 @@
+---
+title: "French"
+listing:
+  contents:
+    - "topics/*_root.qmd"
+  type: grid
+  sort:
+    - "title asc"
+  fields: [title]
+---
