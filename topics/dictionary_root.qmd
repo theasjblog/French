@@ -20,3 +20,6 @@ title: "Dictionary"
 -   aller <pronome> chercher: pick up
 -   Faire les courses en ligne: do groceries on line
 -   numérique: digital
+-   jeu de société: board game
+-   ado(s): adolescent(s)
+-   jeu vidéo: video game
